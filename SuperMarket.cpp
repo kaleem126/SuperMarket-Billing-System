@@ -32,7 +32,7 @@ void shopping :: menu()
 	
 	cout<<"\t\t\t\t______________________________________\n";
 	cout<<"\t\t\t\t                                      \n";
-	cout<<"\t\t\t\t          Supermarket Main Menu       \n";
+	cout<<"\t\t\t\t          Modernmarket Main Menu      \n";
 	cout<<"\t\t\t\t                                      \n";
 	cout<<"\t\t\t\t______________________________________\n";
 	cout<<"\t\t\t\t                                      \n";
@@ -54,7 +54,7 @@ void shopping :: menu()
 			cout<<"\t\t\t Password       \n";
 			cin>>password;
 			
-			if(email=="robby@email.com" && password=="robby@123")
+			if(email=="modernmart@gmail.com" && password=="modern@126")
 			{
 				administrator();
 			}
